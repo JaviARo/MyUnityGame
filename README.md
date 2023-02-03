@@ -32,3 +32,10 @@ In this game there are two levels, you can access the second level crossing the 
 
 If you try to commit suicide as the soccer ball jumping into the abyss, you will restart the level instead. 
 It is and enless nightmare for the ball, eternaly doomed to live :D
+
+```
+Extra features for 20%
+```
+If you jumping into the abyss, the level will restart.
+There is a jumping platform in the second level.
+I get some assets and the materials from the Unity Asset Store. 
