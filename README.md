@@ -38,4 +38,4 @@ Extra features for 20%
 ```
 If you jumping into the abyss, the level will restart.
 There is a jumping platform in the second level.
-I get some assets and the materials from the Unity Asset Store. 
+I got some assets and the materials from the Unity Asset Store. 
